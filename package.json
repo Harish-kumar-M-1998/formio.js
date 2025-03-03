@@ -1,5 +1,5 @@
 {
-  "name": "@formio/js",
+  "name": "formiojs",
   "version": "5.1.0-dev.2",
   "description": "JavaScript powered Forms with JSON Form Builder",
   "main": "lib/cjs/index.js",
